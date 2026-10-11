@@ -5,11 +5,9 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/prabhavkrishna17-max"><img src="https://img.shields.io/badge/GitHub-prabhavkrishna17--max-00f0ff?style=for-the-badge&logo=github&logoColor=0b0f19" alt="GitHub" /></a>
-  &nbsp;
-  <a href="mailto:prabhavkrishna17@gmail.com"><img src="https://img.shields.io/badge/Email-prabhavkrishna17%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=0b0f19" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/prabhavkrishna17-max/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Next.js_16-0284c7?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/prabhavkrishna17-max"><code>⚡ GitHub: @prabhavkrishna17-max</code></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:prabhavkrishna17@gmail.com"><code>✉️ Email: prabhavkrishna17@gmail.com</code></a>
 </p>
 
 <p align="center">
@@ -113,12 +111,12 @@ Passionate about engineering systems where **"the bar is verifiability, not flue
 
 <h4>AI, Retrieval & Machine Learning</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini_API-8E75C4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Hybrid_RRF_RAG-00F0FF?style=flat-square&logo=openai&logoColor=0A0F1D" alt="Hybrid RRF RAG" />
-  <img src="https://img.shields.io/badge/BM25_Lexical-7928CA?style=flat-square" alt="BM25 Lexical" />
-  <img src="https://img.shields.io/badge/Dense_Embeddings-38BDF8?style=flat-square" alt="Dense Embeddings" />
-  <img src="https://img.shields.io/badge/Sentence_Transformers-FFA116?style=flat-square" alt="Sentence Transformers" />
-  <img src="https://img.shields.io/badge/PyMuPDF-2E7D32?style=flat-square" alt="PyMuPDF" />
+  <code>⚡ Gemini API</code> &nbsp;
+  <code>🧠 Hybrid RRF RAG</code> &nbsp;
+  <code>🔍 BM25 Lexical</code> &nbsp;
+  <code>📐 Dense Embeddings</code> &nbsp;
+  <code>📊 Sentence Transformers</code> &nbsp;
+  <code>📄 PyMuPDF</code>
 </p>
 
 </div>
@@ -220,11 +218,9 @@ const DEV = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/prabhavkrishna17-max"><img src="https://img.shields.io/badge/GitHub-prabhavkrishna17--max-00f0ff?style=for-the-badge&logo=github&logoColor=0b0f19" alt="GitHub" /></a>
-  &nbsp;
-  <a href="mailto:prabhavkrishna17@gmail.com"><img src="https://img.shields.io/badge/Email-prabhavkrishna17%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=0b0f19" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/prabhavkrishna17-max/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Next.js_16-0284c7?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/prabhavkrishna17-max"><code>⚡ GitHub: @prabhavkrishna17-max</code></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:prabhavkrishna17@gmail.com"><code>✉️ Email: prabhavkrishna17@gmail.com</code></a>
 </p>
 
 <br>
