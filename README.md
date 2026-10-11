@@ -127,21 +127,17 @@ Passionate about engineering systems where **"the bar is verifiability, not flue
 
 <div align="center">
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhavkrishna17-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" alt="Prabhav's GitHub Stats" />
+</p>
+
 <table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=prabhavkrishna17-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" alt="Prabhav's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhavkrishna17-max&theme=tokyonight&background=0b0f19&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=94a3b8&sideNums=00f0ff&currStreakNum=00f0ff&dates=94a3b8&border=0b0f19&hide_border=true" alt="Prabhav's GitHub Streak" width="100%" />
-    </td>
-  </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavkrishna17-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/prabhavkrishna17-max/prabhavkrishna17-max/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhavkrishna17-max&theme=tokyonight&background=0b0f19&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=94a3b8&sideNums=00f0ff&currStreakNum=00f0ff&dates=94a3b8&border=0b0f19&hide_border=true" alt="Prabhav's GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
