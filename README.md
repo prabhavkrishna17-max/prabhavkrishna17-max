@@ -1,112 +1,149 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Prabhav Krishna Banner" width="100%" style="border-radius: 12px; max-height: 380px; object-fit: cover;" />
+<img src="assets/banner.jpg" alt="Prabhav Krishna — AI Systems Engineer & Full-Stack Developer" width="100%" style="border-radius: 10px; max-height: 420px; object-fit: cover;" />
 
-# Prabhav Krishna
-**AI Systems Engineer & Full-Stack Developer**
+<br><br>
 
 <p align="center">
-  <a href="https://github.com/prabhavkrishna17-max"><img src="https://img.shields.io/badge/GitHub-prabhavkrishna17--max-00F0FF?style=for-the-badge&logo=github&logoColor=0A0F1D" alt="GitHub" /></a>
-  <a href="mailto:prabhavkrishna17@gmail.com"><img src="https://img.shields.io/badge/Email-prabhavkrishna17%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/prabhavkrishna17-max/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Next.js_16-38BDF8?style=for-the-badge&logo=nextdotjs&logoColor=0A0F1D" alt="Portfolio" /></a>
+  <a href="https://github.com/prabhavkrishna17-max"><img src="https://img.shields.io/badge/GitHub-prabhavkrishna17--max-00f0ff?style=for-the-badge&logo=github&logoColor=0b0f19" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:prabhavkrishna17@gmail.com"><img src="https://img.shields.io/badge/Email-prabhavkrishna17%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=0b0f19" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/prabhavkrishna17-max/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Next.js_16-0284c7?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <em>Specializing in High-Assurance Agentic RAG Architectures, Telemetry-Driven AI Observability, and Resilient Full-Stack Systems.</em>
+  <em>Specializing in High-Assurance Agentic RAG Architectures, AI Observability Workbenches, and Statistical Forecasting Engines.</em>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Engineering Focus
+### 📌 About Me
 
-- 🧠 **High-Assurance Retrieval & Governance:** Architecting domain-conditioned RAG systems (JC-PAR) that eliminate hallucinations and enforce evidentiary verifiability across complex corpora.
-- 🔭 **AI Agent Observability & Telemetry:** Building execution-graph visualizers, prompt sandboxes, and drop-in instrumentation SDKs for autonomous agent failure analysis.
-- 📈 **Statistical Indexing & Time-Series Pipelines:** Developing high-frequency market intelligence data pipelines, advance booking-window analytics, and macroeconomic index engines.
-- 🎨 **Cinematic & High-Performance Interfaces:** Engineering tactile developer tools and production frontends with Next.js, React 19, TypeScript, and Framer Motion.
+AI Systems Engineer and Full-Stack Developer focused on building resilient, high-assurance distributed systems and developer tooling. My core technical pursuits lie at the intersection of domain-conditioned retrieval, telemetry-driven AI observability, and macroeconomic statistical indexing.
 
----
-
-### 🛠️ Verified Technology Stack
-
-<div align="center">
-
-| Domain | Verified Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> |
-| **Frameworks & Runtimes** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=0A0F1D" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> |
-| **AI & Retrieval** | <img src="https://img.shields.io/badge/Hybrid_RRF_RAG-00F0FF?style=flat-square&logo=openai&logoColor=0A0F1D" /> <img src="https://img.shields.io/badge/BM25_Lexical-7928CA?style=flat-square" /> <img src="https://img.shields.io/badge/Dense_Embeddings-38BDF8?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_API-8E75C4?style=flat-square&logo=google&logoColor=white" /> |
-| **Data & Storage** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Alembic-3B82F6?style=flat-square" /> |
-| **Styling & Motion** | <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Lenis_Scroll-111827?style=flat-square" /> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/PyMuPDF-2E7D32?style=flat-square" /> |
-
-</div>
+#### 💡 What Drives Me
+Passionate about engineering systems where **"the bar is verifiability, not fluency."** Whether architecting domain-conditioned retrieval pipelines that eliminate hallucinations, building interactive execution-tree diagnostics for multi-agent workflows, or indexing high-frequency market data, I believe developer tools and AI infrastructure should deliver uncompromising mathematical and structural reliability.
 
 ---
 
-### 🚀 Selected Project Showcases
+### ⚡ Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/prabhavkrishna17-max/Hacknex26">🏛️ Hacknex26 — HNX Legal Intelligence</a></h4>
+      <h3>🏛️ <a href="https://github.com/prabhavkrishna17-max/Hacknex26">Hacknex26 — HNX Legal Intelligence</a></h3>
       <p><strong>Agentic Legal Assistant (Track HNX26EPS01)</strong></p>
-      <p><em>“The bar is verifiability, not fluency.”</em> High-assurance legal assistant employing <strong>JC-PAR</strong> (Jurisdiction-Conditioned Precedence-Aware RAG). Implements hybrid RRF retrieval, cross-reference precedence resolution, and strict calibrated abstention on insufficient evidentiary records.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/BM25_+_Dense-00F0FF?style=flat-square" />
-      </p>
+      <p>High-assurance legal intelligence and document analysis platform eliminating hallucinated claims through verifiable cross-reference citations and calibrated abstention.</p>
+      <strong>Key Engineering & Impact:</strong>
+      <ul>
+        <li>Implemented <strong>JC-PAR</strong> architecture (Jurisdiction-Conditioned Precedence-Aware RAG) with calibrated abstention returning <code>INSUFFICIENT_EVIDENCE</code> on incomplete records.</li>
+        <li>Blended BM25 lexical ranking and dense embeddings via Reciprocal Rank Fusion (RRF).</li>
+        <li>Automated clause-precedence dependency graph expansion handling statutory carveouts (<em>"Notwithstanding Section X"</em>).</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> <code>Python 3.11+</code>, <code>FastAPI</code>, <code>React 19</code>, <code>BM25</code>, <code>Gemini API</code>, <code>PyMuPDF</code></p>
+      <p><a href="https://github.com/prabhavkrishna17-max/Hacknex26"><strong>Explore Repository →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/prabhavkrishna17-max/AgentLens">🔭 AgentLens</a></h4>
+      <h3>🔭 <a href="https://github.com/prabhavkrishna17-max/AgentLens">AgentLens</a></h3>
       <p><strong>AI-Agent Observability & Failure-Diagnosis Workbench</strong></p>
-      <p>Unified developer workbench to observe, trace, diagnose, refine, and compare autonomous AI agent executions. Features interactive decision-tree graph visualizations, root-cause failure classification, and a drop-in multi-provider Python SDK (OpenAI, Anthropic, Gemini).</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python_SDK-3776AB?style=flat-square" />
-      </p>
+      <p>Unified developer workbench to observe, trace, diagnose, refine, and compare autonomous AI agent executions through interactive telemetry graphs.</p>
+      <strong>Key Engineering & Impact:</strong>
+      <ul>
+        <li>Constructed interactive decision-tree graph visualizations for multi-step agent runs, tool calls, and LLM completions.</li>
+        <li>Engineered automated root-cause failure classification and diagnostic hints based on observed traces.</li>
+        <li>Authored drop-in multi-provider Python SDK (<code>agentlens_sdk</code>) instrumenting OpenAI, Anthropic, and Gemini models.</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> <code>FastAPI</code>, <code>PostgreSQL</code>, <code>SQLAlchemy</code>, <code>React 18</code>, <code>React Flow</code>, <code>Python SDK</code></p>
+      <p><a href="https://github.com/prabhavkrishna17-max/AgentLens"><strong>Explore Repository →</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/prabhavkrishna17-max/AEROVA">✈️ AEROVA (AERIX SIH26056)</a></h4>
+      <h3>✈️ <a href="https://github.com/prabhavkrishna17-max/AEROVA">AEROVA (AERIX SIH26056)</a></h3>
       <p><strong>Real-Time Airfare Observation & Valuation Analytics</strong></p>
-      <p>Macroeconomic market intelligence engine augmenting India’s Consumer Price Index (CPI). Tracks high-frequency fare dynamics across national city-pairs and advance booking horizons (T+1 to T+45) weighted with DGCA passenger traffic figures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/Index_Engine-7928CA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
-      </p>
+      <p>Macroeconomic market intelligence engine augmenting India’s Consumer Price Index (CPI) with high-frequency airfare dynamics across national routes.</p>
+      <strong>Key Engineering & Impact:</strong>
+      <ul>
+        <li>Tracked real-time fare dynamics across major city-pairs and advance booking windows (T+1 to T+45).</li>
+        <li>Formulated statistical route price indexing weighted with DGCA passenger traffic figures.</li>
+        <li>Engineered multi-adapter scraping pipelines with outlier filtering, rate-limiting, and backtesting harnesses.</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> <code>Python</code>, <code>FastAPI</code>, <code>PostgreSQL</code>, <code>Next.js</code>, <code>Docker</code>, <code>Statistical Indexing</code></p>
+      <p><a href="https://github.com/prabhavkrishna17-max/AEROVA"><strong>Explore Repository →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/prabhavkrishna17-max/GenWeave-AI">🧵 GenWeave AI</a></h4>
+      <h3>🧵 <a href="https://github.com/prabhavkrishna17-max/GenWeave-AI">GenWeave AI</a></h3>
       <p><strong>Generative 3D Material Staging & Render Pipeline</strong></p>
-      <p>Full-stack material synthesis studio translating raw surface textures and natural language descriptions into staged 3D product renders with asynchronous job queue orchestration and interactive material parameter tuning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square" />
-      </p>
+      <p>Full-stack material synthesis studio translating raw surface textures and natural language prompts into staged 3D product renders.</p>
+      <strong>Key Engineering & Impact:</strong>
+      <ul>
+        <li>Engineered asynchronous job queue orchestration (<code>/api/generate</code>, <code>/api/status</code>, <code>/api/result</code>) for non-blocking rendering.</li>
+        <li>Developed dark-mode glassmorphic interface with interactive material property tuning (roughness, specular, grain scale).</li>
+        <li>Constructed multipart upload pipeline handling high-resolution texture maps and prompt configurations.</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> <code>FastAPI</code>, <code>SQLite</code>, <code>React 18</code>, <code>Tailwind CSS</code>, <code>Vite</code></p>
+      <p><a href="https://github.com/prabhavkrishna17-max/GenWeave-AI"><strong>Explore Repository →</strong></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<h4>Frontend Development</h4>
+<img src="assets/tech/frontend.svg" alt="Frontend Technologies: React, TypeScript, Next.js, Tailwind, Vite, HTML5, CSS3" height="42" />
+
+<br><br>
+
+<h4>Backend & Systems Architecture</h4>
+<img src="assets/tech/backend.svg" alt="Backend Technologies: Python, FastAPI, Node.js, Postman" height="42" />
+
+<br><br>
+
+<h4>Database, DevOps & Tooling</h4>
+<img src="assets/tech/devops.svg" alt="Database & DevOps: PostgreSQL, SQLite, Supabase, Docker, Git, GitHub" height="42" />
+
+<br><br>
+
+<h4>AI, Retrieval & Machine Learning</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Hybrid_RRF_RAG-00F0FF?style=flat-square&logo=openai&logoColor=0A0F1D" alt="Hybrid RRF RAG" />
+  <img src="https://img.shields.io/badge/BM25_Lexical-7928CA?style=flat-square" alt="BM25 Lexical" />
+  <img src="https://img.shields.io/badge/Dense_Embeddings-38BDF8?style=flat-square" alt="Dense Embeddings" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FFA116?style=flat-square" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/PyMuPDF-2E7D32?style=flat-square" alt="PyMuPDF" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=prabhavkrishna17-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" alt="Prabhav's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=prabhavkrishna17-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" alt="Prabhav's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavkrishna17-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=7928ca&text_color=94a3b8" alt="Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhavkrishna17-max&theme=tokyonight&background=0b0f19&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=94a3b8&sideNums=00f0ff&currStreakNum=00f0ff&dates=94a3b8&border=0b0f19&hide_border=true" alt="Prabhav's GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavkrishna17-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/prabhavkrishna17-max/prabhavkrishna17-max/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake" width="100%" />
     </td>
   </tr>
 </table>
@@ -115,15 +152,86 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 💻 Current Focus & Interests
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prabhavkrishna17-max/prabhavkrishna17-max/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-</div>
+```javascript
+const DEV = {
+  name: "Prabhav Krishna",
+  role: "AI Systems Engineer & Full-Stack Developer",
+  current_focus: [
+    "High-Assurance Agentic RAG (JC-PAR)",
+    "Telemetry-Driven Observability & Failure Diagnosis",
+    "High-Frequency Market Intelligence Pipelines"
+  ],
+  actively_building: [
+    "AgentLens: AI Agent Execution Observability Workbench",
+    "Hacknex26: Evidentiary Legal Notice Intelligence",
+    "AEROVA: Real-Time Airfare Statistical Valuation Index"
+  ],
+  core_architecture: [
+    "Reciprocal Rank Fusion (BM25 + Dense Vectors)",
+    "Clause-Precedence Dependency Graphs",
+    "Calibrated Abstention on Low-Evidence Records"
+  ],
+  learning_curve: [
+    "Autonomous Multi-Agent Consensus Protocols",
+    "Kernel-Level Telemetry & Distributed Tracing"
+  ]
+};
+```
 
 ---
 
+### 🌐 Beyond Code
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="assets/beyond/photography.jpg" alt="Photography" width="100%" style="border-radius: 8px;" /><br><br>
+      <strong>Photography</strong><br>
+      <sub>Perspective, geometry & urban lighting</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="assets/beyond/hardware.jpg" alt="Workspace & Hardware" width="100%" style="border-radius: 8px;" /><br><br>
+      <strong>Hardware & Workspace</strong><br>
+      <sub>Ergonomics, mechanical switches & tooling</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="assets/beyond/research.jpg" alt="Systems & Research" width="100%" style="border-radius: 8px;" /><br><br>
+      <strong>Systems Research</strong><br>
+      <sub>Dissecting ML papers & architectures</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="assets/beyond/hackathons.jpg" alt="Hackathons & Sprints" width="100%" style="border-radius: 8px;" /><br><br>
+      <strong>Hackathons & Sprints</strong><br>
+      <sub>Zero-to-one engineering & prototyping</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Connect With Me
+
 <div align="center">
-  <sub>Engineered with verifiable rigor, precision telemetry, and clean architectural principles.</sub><br>
-  <sub>© 2026 Prabhav Krishna. Built for continuous iteration.</sub>
+
+<p align="center">
+  Always open to discussing high-assurance AI systems, distributed architectures, or technical collaborations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/prabhavkrishna17-max"><img src="https://img.shields.io/badge/GitHub-prabhavkrishna17--max-00f0ff?style=for-the-badge&logo=github&logoColor=0b0f19" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:prabhavkrishna17@gmail.com"><img src="https://img.shields.io/badge/Email-prabhavkrishna17%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=0b0f19" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/prabhavkrishna17-max/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Next.js_16-0284c7?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<br>
+
+<img src="assets/footer_wave.svg" alt="Footer Wave" width="100%" />
+
+<sub>Engineered with verifiable rigor, precision telemetry, and clean architectural principles.</sub><br>
+<sub>© 2026 Prabhav Krishna. Built for continuous iteration.</sub>
+
 </div>
